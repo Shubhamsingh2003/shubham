@@ -1,0 +1,16 @@
+body{
+    background-color: aqua;
+}
+h1{
+    
+    text-align: center;
+    color: red;
+}
+h2{
+    
+    text-align: center;
+    color:green;
+}
+.image{
+  align-items: center;  
+}
